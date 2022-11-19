@@ -1,0 +1,19 @@
+body
+{
+    background-color: bisque;
+    padding: 0px;
+    
+}
+.cl
+{
+    background-color: aliceblue;
+    width:30%;
+    height:50%;
+    margin :15% 15%;
+    padding: 35px 10px; 
+}
+.bt
+{
+   align-items: center; 
+
+}
